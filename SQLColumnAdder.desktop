@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=SQL Column Adder
+Comment=Aplicación para agregar columnas a SQL Server
+Exec=/usr/bin/SQLColumnAdder
+Icon=/usr/share/icons/SQLColumnAdder.png
+Terminal=false
+Type=Application
+Categories=Utility;Development;
+StartupNotify=true
+GenericName=SQL Column Adder
+X-AppImage-Version=1.0.0
+Comment[es]=Aplicación para agregar columnas a SQL Server
