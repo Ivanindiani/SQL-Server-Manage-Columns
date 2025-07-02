@@ -8,10 +8,10 @@ source pyenv/bin/activate
 
 # Run command in new instance
 
-# Instalar paquetes
+# Install packages
 pip install pyqt5 pyodbc
 
-# Instalar devtools compiler
+# Install devtools compiller
 pip install pyinstaller
 
 pyinstaller --onefile\
